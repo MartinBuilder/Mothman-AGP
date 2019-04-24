@@ -35,10 +35,10 @@ De game is een horror detective dat plaats vind in een verlaten fabriek waarbij 
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/EiBEYC47/mytheproject2019>
-   [Logboek]: <https://docs.google.com/document/d/1TQXAVa5v9Zerv0QlRxrXkhZcLmKjj_-Mi377UCWYVf4/edit>
-   [GameDesignDoc]: <https://docs.google.com/document/d/180sOv-wo4zvNV3Enb6Z1oHsZLNWAi55yUkrBaywMRoU/edit>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
+   [Logboek]: <https://docs.google.com/document/d/1TQXAVa5v9Zerv0QlRxrXkhZcLmKjj_-Mi377UCWYVf4>
+   [GameDesignDoc]: <https://docs.google.com/document/d/180sOv-wo4zvNV3Enb6Z1oHsZLNWAi55yUkrBaywMRoU>
+   [RetrospectiveVerslagen]: <>
    [ReviewVerslagen]: <https://drive.google.com/drive/u/0/folders/1liCArGBohPgudVvZ2bAE-0NhaK9zikIt>
-   [Prototype]: <http://www.mediafire.com/file/6arlam8ykjq75cq/Build.rar/file>
-   [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
+   [Prototype]: <http://martinkeesom.nl/Mothman.html>
+   [AssetPlanning]: <>
    
